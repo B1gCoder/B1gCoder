@@ -3,7 +3,7 @@
 ## Jestem totalnym szefem i nagrywam nuty w 5G ZAKONIE
 
 - 🎶 Sprawdź nas na Spotify: [5G ZAKON][spotify]!
-- 📜 Nagrywamy nuty w 6 osób mimo cyfry 5 w nazwie
+- 📜 Nagrywamy nuty w 5 osób
 - 💿 12.10.2021: Sprzedaż pierwszych fizycznych płyt
 - 🎤 26.03.2022: Pierwszy "koncert"
 - 🎙️ 09.04.2022: Support na Hip-Hop Festiwalu w Szczecinie na Netto Arenie
