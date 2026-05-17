@@ -1,19 +1,18 @@
-# Cześć, Jestem Eryk - lub [Filemon][website] 👋 
+### Cześć! 👋 
 
-### Media społecznościowe:
+Jestem studentem Zarządzania i Inżynierii Produkcji w Szczecinie, który po godzinach zamienia się w web developera. Na co dzień łączę świat fizycznych procesów produkcyjnych z cyfrową automatyzacją. 
 
-[![website](./ikonki/globe-light.svg)](https://funnygfx.pb.design/#gh-light-mode-only)
-[![website](./ikonki/globe-dark.svg)](https://funnygfx.pb.design/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./ikonki/youtube-light.svg)](https://www.youtube.com/c/5gZakon/#gh-light-mode-only)
-[![website](./ikonki/youtube-dark.svg)](https://www.youtube.com/c/5gZakon/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./ikonki/instagram-light.svg)](https://www.instagram.com/filemon5g/#gh-light-mode-only)
-[![website](./ikonki/instagram-dark.svg)](https://www.instagram.com/filemon5g/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./ikonki/instagram-light.svg)](https://www.instagram.com/5gzakon/#gh-light-mode-only)
-[![website](./ikonki/instagram-dark.svg)](https://www.instagram.com/5gzakon/#gh-dark-mode-only)
+Jako operator produkcji codziennie zderzam się z realnymi problemami na linii – od wyrabiania norm po zarządzanie czasem – które staram się optymalizować za pomocą kodu. Moim głównym celem jest tworzenie narzędzi, które usprawniają pracę, ułatwiają zarządzanie czasem i finansami oraz – co równie ważne – zawsze posiadają dopracowany interfejs.
 
+#### 💻 Mój Tech Stack:
+* **Frontend:** HTML5, CSS3, Vanilla JavaScript
+* **Backend & Bazy danych:** PHP, Supabase / PostgreSQL
+* **Środowisko:** Visual Studio Code, macOS
 
-[website]: https://www.instagram.com/filemon5g/
-[spotify]: https://open.spotify.com/artist/7HbBeccf0cE21KxGp8xWG2?si=dsk8PneFQQuynQMUrtk4jA
+#### 🚀 Wybrane projekty:
+Tworzę narzędzia, z których sam chcę korzystać każdego dnia. Moje ulubione realizacje to:
+* **Demant Tracker:** Oparta na chmurze aplikacja z nowoczesnym interfejsem do monitorowania osobistej wydajności i realizacji celów produkcyjnych w czasie rzeczywistym.
+* **ZdrowySłoik:** Interaktywny webowy konfigurator e-commerce pozwalający na tworzenie własnych, personalizowanych mieszanek granoli.
+
+#### ⚡ Poza kodowaniem:
+Kiedy akurat nie optymalizuję procesów na hali ani nie kompiluję kodu, najprawdopodobniej szukam sposobów na logistyczne usprawnienie domowego gotowania (meal prep na cały tydzień!).
